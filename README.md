@@ -1,5 +1,7 @@
 # GitPrReleaseParser
 
+[![Build Status](https://travis-ci.org/a2ikm/git_pr_release_parser.svg?branch=master)](https://travis-ci.org/a2ikm/git_pr_release_parser)
+
 Parse [git-pr-release](https://github.com/motemen/git-pr-release)'s output in Ruby.
 
 ## Installation
